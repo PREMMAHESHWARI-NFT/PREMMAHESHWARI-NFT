@@ -1,39 +1,23 @@
-# Hi there, I'm Prem Maheshwari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
+Hi there, I'm Prem Maheshwari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+Student;Full-Stack+Developer;Published+AI+Researcher;Always+Building.+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PREMMAHESHWARI-NFT&label=Profile+Views&color=00d9ff&style=flat-square" />
   <img src="https://img.shields.io/github/followers/PREMMAHESHWARI-NFT?label=Followers&style=flat-square&color=00d9ff" />
 </p>
 
----
+🚀 About Me
+I'm a B.Tech AI & Data Science student at VIPS-TC, New Delhi, passionate about building scalable full-stack applications and intelligent AI/ML systems.
 
-## 🚀 About Me
-
-```python
-class PremMaheshwari:
-    def __init__(self):
-        self.name       = "Prem Maheshwari"
-        self.role       = "Full-Stack Developer & AI/ML Engineer"
-        self.college    = "VIPS-TC, New Delhi"
-        self.degree     = "B.Tech AI & Data Science (2023–2027)"
-        self.cgpa       = 7.93
-
-    def current(self):
-        self.working_on = "AI-powered full-stack platforms"
-        self.learning   = "Backend Development & DSA in Java"
-        self.research   = "LLM Hallucination Detection (Published @ ICAUC 2026)"
-        self.open_to    = "Internships & Collaborations 🤝"
-
-    def fun_fact(self):
-        return "Published a research paper in my 3rd year of college! 🎓"
-```
-
----
-
+🔭 Currently working on AI-powered full-stack platforms
+🌱 Advancing skills in Backend Development & DSA with Java
+📄 Published researcher at ICAUC 2026 — LLM Hallucination Detection
+🧑‍💼 Managing the Data Science Club at VIPS-TC (120+ members)
+🌐 Active member of Google Developer Student Clubs (GDSC)
+💬 Ask me about Python, Java, React, Machine Learning, or Generative AI
+📫 Reach me at premdargar2005@gmail.com
+🤝 Open to Internships & Collaborations
 ## 🛠️ Tech Stack
 
 <h3>👨‍💻 Languages</h3>
